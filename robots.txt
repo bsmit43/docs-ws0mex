@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-j06kga.qq1221kwd.cyou/sitemap.xml
